@@ -1,6 +1,6 @@
 # chrome-github-open-with-github1s
 
-A small Chrome addon to open GitHub repos directly in GitHub1s.
+A small Chrome addon to open a GitHub repo directly in GitHub1s.
 
 ## Demo
 
@@ -12,7 +12,7 @@ A small Chrome addon to open GitHub repos directly in GitHub1s.
 
 ![image](https://user-images.githubusercontent.com/41482988/122925335-068e1880-d367-11eb-8208-73f0002bc57b.png)
 
-2. Unpack the ZIP
+2. Unzipped the downloaded folder
 
 ![image](https://user-images.githubusercontent.com/41482988/122927069-c9c32100-d368-11eb-9d5b-a48eb88cc15b.png)
 
@@ -24,7 +24,7 @@ A small Chrome addon to open GitHub repos directly in GitHub1s.
 
 ![image](https://user-images.githubusercontent.com/41482988/122926061-c4b1a200-d367-11eb-929b-d3f73ba8867b.jpeg)
 
-5. Load Addon by clicking `Load unpacked` and pick the uziped folder
+5. Load Addon by clicking `Load unpacked` and pick the unzipped folder
 
 ![image](https://user-images.githubusercontent.com/41482988/122927708-6f769000-d369-11eb-8f8c-39449d5aad1a.png)
 
