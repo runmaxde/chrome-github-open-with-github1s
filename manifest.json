@@ -3,7 +3,7 @@
 
   "name": "GitHub open with Github1s",
   "description": "",
-  "version": "1.0",
+  "version": "2.0",
 
   "content_scripts": [
     {
