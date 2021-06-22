@@ -20,7 +20,7 @@ A small Chrome addon to open a GitHub repo directly in GitHub1s.
 
 ![image](https://user-images.githubusercontent.com/41482988/122925335-068e1880-d367-11eb-8208-73f0002bc57b.png)
 
-4. Endable developer mode
+4. Enable developer mode
 
 ![image](https://user-images.githubusercontent.com/41482988/122926061-c4b1a200-d367-11eb-929b-d3f73ba8867b.jpeg)
 
