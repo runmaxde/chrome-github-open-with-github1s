@@ -28,6 +28,19 @@ A small Chrome addon to open a GitHub repo directly in GitHub1s.
 
 ![image](https://user-images.githubusercontent.com/41482988/122927708-6f769000-d369-11eb-8f8c-39449d5aad1a.png)
 
-## Expand
+## Expand / API
 
 If you want to add another service like **GitPod**, you can add a new `createAction` to the `injectionScript.js` and provide an object like below.
+
+``` javascript
+DomWorkerInstance.createAction({
+  TITLE: "Your Action",
+  FN: function () {
+    console.log("Hello World");
+  },
+  LOGO: `
+    <svg class="octicon octicon-desktop-download mr-3" viewBox="0 0 16 16"  width="16" height="16" viewBox="0 0 16 16">
+      <!-- IMAGE -->
+    </svg>`
+});
+```
