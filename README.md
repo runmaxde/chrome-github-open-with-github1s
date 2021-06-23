@@ -10,7 +10,7 @@ A small Chrome addon to open a GitHub repo directly in GitHub1s.
 
 1. Download the latest stable release
 
-![image](https://user-images.githubusercontent.com/41482988/122925335-068e1880-d367-11eb-8208-73f0002bc57b.png)
+[Download latest](https://github.com/runmaxde/chrome-github-open-with-github1s/releases/latest)
 
 2. Unzipped the downloaded folder
 
